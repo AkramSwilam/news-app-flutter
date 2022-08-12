@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725589736657",
+    "project_id": "news-app-bab4e",
+    "storage_bucket": "news-app-bab4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725589736657:android:678516eaa52a23ba6b99f0",
+        "android_client_info": {
+          "package_name": "com.newsAppMSP.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725589736657-3qtps6vioh5d8pt35dmqv0cb1vj5t45b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3lac1vU2FZ2Uc8xwButsK8XWKLAG3U2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725589736657-3qtps6vioh5d8pt35dmqv0cb1vj5t45b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
